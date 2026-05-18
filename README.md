@@ -1,6 +1,12 @@
  Hi there 👋
+
+
 My name is Boyd Malambo, I hold a BSc degree in Economics and Financial Engineering where I focused on bridging the gap between sophisticated mathematical modelling and real-world business strategy.
-I am data analyst trainee in Lusaka Zambia. I am completing a rigorous data analytics bootcamp at FSI outsourcing. During this time, I have learned several analytical tools including Microsoft Excel, Power BI, SQL, and Artificial Intelligence, to solve intricate financial problems and tell the story behind the numbers.
- My individual project analysed the role of three economic indicators, namely: gross fixed capital formation, foreign direct investment and inflation as drivers of economic growth in 8 Organisation for Economic Co-Operation and Development (OECD) countries. The project conclusion was that the three indicators had a direct impact on economic growth, with one resulting in a negative impact while the other two had a positive impact.  
-As I enter the job market, I am focused on refining my critical thinking, data storytelling, and communication skills. My career goal is to manipulate financial data to drive informed decision making in Zambia. I am open to junior data analyst roles, and I would like to connect with professionals in the finance and banking sector at national level 
+I am data analyst trainee in Lusaka Zambia. 
+I am completing a rigorous data analytics bootcamp at FSI outsourcing. During this time, I have learned several analytical tools including Microsoft Excel, Power BI, SQL, and Artificial Intelligence, to solve intricate financial problems and tell the story behind the numbers.
+My individual project analysed the role of three economic indicators, namely: gross fixed capital formation, foreign direct investment and inflation as drivers of economic growth in 8 Organisation for Economic Co-Operation and Development (OECD) countries. 
+The project conclusion was that the three indicators had a direct impact on economic growth, with one resulting in a negative impact while the other two had a positive impact.  
+As I enter the job market, I am focused on refining my critical thinking, data storytelling, and communication skills. 
+My career goal is to manipulate financial data to drive informed decision making in Zambia.
+I am open to junior data analyst roles, and I would like to connect with professionals in the finance and banking sector at national level.
 
