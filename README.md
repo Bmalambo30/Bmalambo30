@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=BSc+Economics+%26+Financial+Engineering;Data+Analyst+Trainee+%7C+Lusaka%2C+Zambia;Turning+Numbers+Into+Strategy;Excel+%7C+Power+BI+%7C+SQL+%7C+AI+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=BSc+Economics+%26+Financial+Engineering;Data+Analyst+%7C+Lusaka%2C+Zambia;Turning+Numbers+Into+Strategy;Excel+%7C+Power+BI+%7C+SQL+%7C+AI+Tools)](https://git.io/typing-svg)
 
 </div>
 
@@ -138,6 +138,3 @@ Open To     : Junior Data Analyst Roles | Finance & Banking Collaborations
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e6091,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
 </div>
-
-</div>
-
